@@ -1,7 +1,6 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/88c095d73b94a6dc96e8619931728838/577cc580-ccfc-4a46-9787-b2db5b8dfb7d_rwc_380x0x2439x410x3200.jpg?h=8d6dd8c6196a2937417cc9801207aef2)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/88c095d73b94a6dc96e8619931728838/577cc580-ccfc-4a46-9787-b2db5b8dfb7d_rwc_380x0x2439x410x3200.jpg?h=8d6dd8c6196a2937417cc9801207aef2)
 <h1 align="center">Hi 👋, I'm Elsayed-Hamada</h1>
 <h3 align="center">front-end web developer from Egypt</h3>
-(img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/88c095d73b94a6dc96e8619931728838/577cc580-ccfc-4a46-9787-b2db5b8dfb7d_rwc_380x0x2439x410x3200.jpg?h=8d6dd8c6196a2937417cc9801207aef2")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsayed-hamada&label=Profile%20views&color=0e75b6&style=flat" alt="elsayed-hamada" /> </p>
 
