@@ -1,24 +1,24 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/88c095d73b94a6dc96e8619931728838/577cc580-ccfc-4a46-9787-b2db5b8dfb7d_rwc_380x0x2439x410x3200.jpg?h=8d6dd8c6196a2937417cc9801207aef2)
-<h1 align="center">Hi 👋, I'm Elsayed-Hamada</h1>
+<h1 align="center">Hi , I'm Elsayed-Hamada</h1>
 <h3 align="center">front-end web developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsayed-hamada&label=Profile%20views&color=0e75b6&style=flat" alt="elsayed-hamada" /> </p>
 
 <p align="left"> <a href="https://twitter.com/elsayed_7amada" target="blank"><img src="https://img.shields.io/twitter/follow/elsayed_7amada?logo=twitter&style=for-the-badge" alt="elsayed_7amada" /></a> </p>
 
-- 🔭 I’m currently working on **creating many projects on my own as I could**
+-  I’m currently working on **creating many projects on my own as I could**
 
-- 🌱 I’m currently learning **Javascript**
+-  I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **New Projects any time**
+-  I’m looking to collaborate on **New Projects any time**
 
-- 👨‍💻 All of my projects are available Here on my Github [https://github.com/Elsayed-Hamade](https://github.com/Elsayed-Hamade)
+-  All of my projects are available Here on my Github [https://github.com/Elsayed-Hamade](https://github.com/Elsayed-Hamade)
 
-- 💬 Ask me about **Html, Css, Javascript(still learning🙄)**
+-  Ask me about **Html, Css, Javascript(still learning🙄)**
 
-- 📫 How to reach me **on my insta account @sayed.developer**
+-  How to reach me **on my insta account @sayed.developer**
 
-- ⚡ Fun fact **I'm also Vet. Med. Student**
+-  Fun fact **I'm also Vet. Med. Student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
